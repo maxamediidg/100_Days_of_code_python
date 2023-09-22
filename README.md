@@ -71,6 +71,15 @@ this Day i learn List compherension and Dictionary comprehension in python.
 some of the course is exercise in coodingrooms.com.
 final project in this course is NATO alphabet used pandas Library
 
+Day 27
+this is day-26 in 100 days of code in python with angela_yu.
+this day i make first GUI application python used TKINTER.
+Tkinter is the standard GUI library for Python. 
+Python when combined with Tkinter provides a fast and easy way to create GUI applications. 
+Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+
+I make final Day in 27 Mile to Kilo converter
+
 
 
 
